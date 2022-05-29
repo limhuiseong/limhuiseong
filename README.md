@@ -1,7 +1,19 @@
-<h3>
-  동국대학교 컴퓨터정보통신공학부 1학년 1학기
-</h3>
 <hr>
+<h3>
+  about me
+</h3>
+<p>
+  Computer Information & Communication Engineering '22
+  <br>
+  Dongguk univ.
+  <br><br>
+  Areas of Interest : Wireless Communication, Artificial Intelligence
+</p>
+<hr>
+<h3>
+  the first semester of the first grade
+</h3>
+
 <p>
   <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white">
@@ -12,5 +24,21 @@
   <img src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </p>
 <p>
-  <img src = "https://www.metatrader4.com/i/metatrader-4-logo.png" style="width: 100px; height: 30px;>
+  <img src = "https://www.metatrader4.com/i/metatrader-4-logo.png">
 </p>
+<hr>
+<h3>
+  the summer semester of the first grade
+</h3>
+
+<p>
+  <img src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white">
+</p>
+<p>
+  <img src = "https://www.metatrader4.com/i/metatrader-4-logo.png">
+</p>
+<p>
+  <img src ="https://codingapple.com/wp-content/uploads/2020/09/joi-310x104.png" >
+</p>
+<hr>
