@@ -26,6 +26,9 @@
    <i>Javascript</i>
    <br>
    <i>MQL4</i>
+
+<strong>:exclamation: What I'm focusing on these days</strong><br>
+   <i>Start a business with a log-free chat service</i>
    
    
    
