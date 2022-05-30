@@ -6,11 +6,11 @@
    <br>
    
 <strong>:computer: Field of Interest</strong><br>
+   <i>Low Level Language</i>
+   <br>
    <i>Wireless Communication</i>
    <br>
    <i>Artificial Intelligence</i>
-   <br>
-   <i>Information Security</i>
 
 <strong>:book: Programming Languages in Study</strong><br>
    <i>C           ( data structures and algorithms ,TCP/IP programming )</i>
