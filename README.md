@@ -38,7 +38,4 @@
 <p>
   <img src = "https://www.metatrader4.com/i/metatrader-4-logo.png">
 </p>
-<p>
-  <img src ="https://codingapple.com/wp-content/uploads/2020/09/joi-310x104.png" >
-</p>
 <hr>
