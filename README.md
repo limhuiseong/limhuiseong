@@ -1,4 +1,4 @@
-<img src = "http://engineer.dongguk.edu/image/common/logo.png">
+<a href="ice.dongguk.edu"><img src = "http://engineer.dongguk.edu/image/common/logo.png"></a><br><br>
 <strong><i>컴퓨터정보통신공학부<br>정보통신공학전공<br>'22</i></strong>
 <br><br>
 
