@@ -5,4 +5,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=limhuiseong)](https://solved.ac/limhuiseong/)
 <br>
 
-<i>Contact : https://open.kakao.com/o/sCM0a8ie </i>
+<i>
+  Contact : https://open.kakao.com/o/sCM0a8ie <br><br>
+  <strong>Interests : </strong><br>Wireless Communication<br>Deep Learning
+</i>
