@@ -1,6 +1,6 @@
 <a href="https://ice.dongguk.edu/"><img src = "http://engineer.dongguk.edu/image/common/logo.png"></a><br><br>
-<strong><i>컴퓨터정보통신공학부<br>정보통신공학전공<br>'22</i></strong>
-<br><br>
+<strong><i>컴퓨터정보통신공학부<br>정보통신공학전공<br>'22<br></i></strong>
+<br><i><strong>MicroDegree</strong><br>머신러닝<br>응용데이터사이언스<br><br></i>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=limhuiseong)](https://solved.ac/limhuiseong/)
 <br>
