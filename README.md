@@ -7,5 +7,5 @@
 
 <i>
   Contact : https://open.kakao.com/o/sCM0a8ie <br><br>
-  <strong>Interests : </strong><br>Wireless Communication<br>Deep Learning
+  <strong>Interests : </strong><br>Wireless Communication<br>Deep Learning<br>Mixed Reality
 </i>
