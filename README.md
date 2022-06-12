@@ -1,6 +1,7 @@
 ![증명사진_450X350](https://user-images.githubusercontent.com/105583102/173250394-15ee96b4-9815-4c3f-a7fd-3190046e9c4d.jpg)
 <br>
-<a href="https://ice.dongguk.edu/"><img src = "http://engineer.dongguk.edu/image/common/logo.png"></a><br><br>
+<a href = "http://engineer.dongguk.edu/">![logo_resp](https://user-images.githubusercontent.com/105583102/173252158-a2284361-0a94-4137-bbbd-e9f0a283f7d7.png)</a>
+<br><br>
 <strong><i>컴퓨터정보통신공학부<br><a href = "https://ice.dongguk.edu/">정보통신공학전공</a><br>'22<br></i></strong>
 <br><i><strong>MicroDegree</strong>
 <br><a href = "https://dei.dongguk.edu/dk2_2_4?sca=%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D">머신러닝</a>
