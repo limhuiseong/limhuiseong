@@ -1,3 +1,5 @@
+![증명사진_450X350](https://user-images.githubusercontent.com/105583102/173250394-15ee96b4-9815-4c3f-a7fd-3190046e9c4d.jpg)
+<br>
 <a href="https://ice.dongguk.edu/"><img src = "http://engineer.dongguk.edu/image/common/logo.png"></a><br><br>
 <strong><i>컴퓨터정보통신공학부<br><a href = "https://ice.dongguk.edu/">정보통신공학전공</a><br>'22<br></i></strong>
 <br><i><strong>MicroDegree</strong>
