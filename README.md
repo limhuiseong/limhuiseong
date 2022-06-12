@@ -17,3 +17,6 @@
 <i>
   <br><br>
   <strong>Contact</strong> : https://open.kakao.com/o/sCM0a8ie </i>
+  <br><br>
+  <strong><i>Studying</i></strong>
+  <br><strong>↓↓↓↓</strong>
