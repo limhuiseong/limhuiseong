@@ -9,7 +9,7 @@
 <i><strong>Certification</strong></i><br>
 <i>Hacking Security Expert Level 3 * 해킹보안전문가 3급</i>
 <br><br>
- <i><strong>Interests : </strong><br>Wireless Communication<br>Deep Learning<br>MR<br>Operating System ( Kernel )<br>System Trading
+ <i><strong>Interests </strong><br>Wireless Communication<br>Deep Learning<br>MR<br>Operating System ( Kernel )<br>System Trading
 </i>
 <i>
   <br><br>
