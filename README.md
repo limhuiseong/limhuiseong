@@ -5,9 +5,12 @@
 <br><a href = "https://dei.dongguk.edu/dk2_2_4?sca=%EC%9D%91%EC%9A%A9%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4">응용데이터사이언스</a><br></i>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=limhuiseong)](https://solved.ac/limhuiseong/)
-<br>
-
-<i>
-  Contact : https://open.kakao.com/o/sCM0a8ie <br><br>
-  <strong>Interests : </strong><br>Wireless Communication<br>Deep Learning<br>Mixed Reality<br>Operating System<br>Kernel<br>Compiler
+<br><br>
+<i><strong>Certification</strong></i><br>
+<i>Hacking Security Expert Level 3 * 해킹보안전문가 3급</i>
+<br><br>
+ <i><strong>Interests : </strong><br>Wireless Communication<br>Deep Learning<br>MR<br>Operating System ( Kernel )<br>System Trading
 </i>
+<i>
+  <br><br>
+  <strong>Contact</strong> : https://open.kakao.com/o/sCM0a8ie </i>
