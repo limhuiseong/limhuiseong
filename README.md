@@ -18,5 +18,4 @@
   <hr>
   <strong>Contact</strong> : https://open.kakao.com/o/sCM0a8ie </i>
   <hr>
-  <strong><i>Studying</i></strong>
-  <br><strong>↓↓↓↓</strong>
+ 
