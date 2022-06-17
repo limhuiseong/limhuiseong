@@ -10,7 +10,7 @@ Dongguk University,<br>
 ### <i>Experiences</i>
 Hacking Security Expert Level 3 (2022.04.20)<br>
 The World Embedded Software Contest 2022 (2022.06.16 ~), with<br><a href = "https://github.com/ryujm1828">Ryu Jaemin (Department of Cyber Security, Ajou Univ.)</a>
-,<br><a href = "https://github.com/lamiro3">Ko TaeHyeon(Department of AI Convergence, Dongguk Univ.)</a>
+,<br><a href = "https://github.com/lamiro3">Ko TaeHyeon (Department of AI Convergence, Dongguk Univ.)</a>
 
 ### <i>Interests</i><br>
 
