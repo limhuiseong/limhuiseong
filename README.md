@@ -8,13 +8,13 @@ Dongguk University,<br>
 <strong>B.S.-ing</strong> from Department of Information and Communication Engineering, at Dongguk univ. (2022.03~)
 
 ### <i>Experiences</i>
-Hacking Security Expert Level 3 (2022.04.20)<br>
-The World Embedded Software Contest 2022 (2022.06.16 ~), with<br><a href = "https://github.com/ryujm1828">Ryu Jaemin (Department of Cyber Security, Ajou Univ.)</a>
+Hacking Security Expert Certification Level 3 (2022.04.20)<br>
+The World Embedded Software Contest 2022 (2022.06.16~), with<br><a href = "https://github.com/ryujm1828">Ryu Jaemin (Department of Cyber Security, Ajou Univ.)</a>
 ,<br><a href = "https://github.com/lamiro3">Ko TaeHyeon (Department of AI Convergence, Dongguk Univ.)</a>
 
 ### <i>Interests</i><br>
 
-Wireless Communication<br>Deep Learning<br>MR<br>System Trading
+Wireless Communication<br>ML/DL<br>MR<br>System Trading
 
 
 ### <i>Contact</i><br>
