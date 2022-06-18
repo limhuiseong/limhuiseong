@@ -5,7 +5,7 @@ Dongguk University,<br>
 04620 Seoul, South Korea.<br>
 
 ### <i>Education</i>
-<strong>B.S.-ing</strong> from Department of Information and Communication Engineering, at Dongguk univ. (2022.03~)
+<strong>B.S.-ing</strong> from Department of Information and Communication Engineering, at Dongguk univ. (2022.03.02~)
 
 ### <i>Experiences</i>
 Hacking Security Expert Certification Level 3 (2022.04.20)<br>
