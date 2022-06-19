@@ -40,6 +40,8 @@ Wireless Communication<br>ML/DL<br>MR<br>System Trading
 <br>
 ![ubuntu](https://user-images.githubusercontent.com/105583102/174481109-3e593702-af08-4fd5-be1e-0f809522efa0.png)
 ![kalilinux](https://user-images.githubusercontent.com/105583102/174480949-ad5c3ad5-0512-47c1-b32b-fb15d8333553.png)
+<br>
+![flutter](https://user-images.githubusercontent.com/105583102/174481179-0132c42d-4a22-475d-b273-5ace283e0640.png)
 
 ### <i>Contact</i><br>
 limhuiseong.cs@gmail.com<br><br>
