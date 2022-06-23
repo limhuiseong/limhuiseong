@@ -44,7 +44,9 @@ Wireless Communication<br>ML/DL<br>MR<br>System Trading
 ![flutter](https://user-images.githubusercontent.com/105583102/174481179-0132c42d-4a22-475d-b273-5ace283e0640.png)
 
 ### <i>Contact</i><br>
-limhuiseong.cs@gmail.com<br><br>
+limhuiseong.cs@gmail.com<br>
+limhuiseong@dongguk.ac.kr
+<br><br>
 https://open.kakao.com/o/sCM0a8ie
 
  
