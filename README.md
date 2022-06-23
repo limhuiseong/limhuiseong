@@ -16,7 +16,7 @@ Creative Problem Solving Project (Dongguk univ.) (2022.06.19~), with<br>
 
 ### <i>Interests</i><br>
 
-Wireless Communication<br>ML/DL<br>MR<br>System Trading
+Wireless Communication<br>Telecommunication<br>ML/DL<br>MR<br>System Trading
 
 ### <i>Skills</i>
 
