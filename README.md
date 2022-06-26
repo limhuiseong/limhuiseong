@@ -6,7 +6,7 @@ Dongguk University,<br>
 
 ### <i>Education</i>
 <strong>B.S.-ing</strong> from Department of Information and Communication Engineering, at Dongguk univ. (2022.03.02~)<br>
-※Micro Degree - Machine Learning, Applied data science
+※Micro Degree - Machine Learning, Applied Data Science
 
 ### <i>Experiences</i>
 Hacking Security Expert Certification Level 3 (2022.04.20)<br><br>
