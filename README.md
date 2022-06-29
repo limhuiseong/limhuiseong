@@ -44,10 +44,11 @@ Wireless Communication<br>Telecommunication<br>ML/DL<br>MR<br>System Trading
 <br>
 ![flutter](https://user-images.githubusercontent.com/105583102/174481179-0132c42d-4a22-475d-b273-5ace283e0640.png)
 
+### <i>BOJ</i><br>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=limhuiseong)](https://solved.ac/limhuiseong)
+
 ### <i>Contact</i><br>
 limhuiseong.cs@gmail.com<br>
 limhuiseong@dongguk.ac.kr
-<br><br>
-https://open.kakao.com/o/sCM0a8ie
 
  
