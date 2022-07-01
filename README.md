@@ -1,11 +1,11 @@
 <a href = "http://engineer.dongguk.edu/">![logo_resp](https://user-images.githubusercontent.com/105583102/173252158-a2284361-0a94-4137-bbbd-e9f0a283f7d7.png)</a>
-### <i>Undergraduate (First Grade)</i>
-Department of Computer Information and Communication Engineering,<br>
+### <i>Undergraduate '22 (First Grade)</i>
+Information Communication Engineering Major (Division of Computer Information Communication Engineering),<br>
 Dongguk University,<br>
 04620 Seoul, South Korea.<br>
 
 ### <i>Education</i>
-<strong>B.S.-ing</strong> from Department of Information and Communication Engineering, at Dongguk univ. (2022.03.02~)<br>
+<strong>B.S.-ing</strong> from Information Communication Engineering Major (Division of Computer Information Communication Engineering), at Dongguk univ. (2022.03.02~)<br>
 ※Micro Degree - Machine Learning, Applied Data Science
 
 ### <i>Experiences</i>
