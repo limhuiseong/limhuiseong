@@ -14,8 +14,8 @@ The World Embedded Software Contest 2022 (2022.06.16~), with<br><a href = "https
 ,<br><a href = "https://github.com/lamiro3">Ko TaeHyeon (Department of AI Convergence, Dongguk Univ.)</a><br><br>
 Creative Problem Solving Project (Dongguk univ.) (2022.06.19~), with<br>
 <a href = "https://github.com/lamiro3">Ko TaeHyeon (Department of AI Convergence, Dongguk Univ.)</a>,<br>
-<a>Lim Jihoon (Department of AI Convergence, Dongguk Univ.)</a>,
-<a>Lee Seojin (Department of AI Convergence, Dongguk Univ.)</a>,
+<a>Lim Jihoon (Department of AI Convergence, Dongguk Univ.)</a>,<br>
+<a>Lee Seojin (Department of AI Convergence, Dongguk Univ.)</a>,<br>
 <a>Kim Jaewoon  (Department of Multimedia Engineering, Dongguk Univ.)</a>
 
 ### <i>Interests</i><br>
