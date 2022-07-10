@@ -13,7 +13,10 @@ Hacking Security Expert Certification Level 3 (2022.04.20)<br><br>
 The World Embedded Software Contest 2022 (2022.06.16~), with<br><a href = "https://github.com/ryujm1828">Ryu Jaemin (Department of Cyber Security, Ajou Univ.)</a>
 ,<br><a href = "https://github.com/lamiro3">Ko TaeHyeon (Department of AI Convergence, Dongguk Univ.)</a><br><br>
 Creative Problem Solving Project (Dongguk univ.) (2022.06.19~), with<br>
-<a href = "https://github.com/lamiro3">Ko TaeHyeon (Department of AI Convergence, Dongguk Univ.)</a>
+<a href = "https://github.com/lamiro3">Ko TaeHyeon (Department of AI Convergence, Dongguk Univ.)</a>,<br>
+<a>Lim Jihoon (Department of AI Convergence, Dongguk Univ.)</a>,
+<a>Lee Seojin (Department of AI Convergence, Dongguk Univ.)</a>,
+<a>Kim Jaewoon  (Department of Multimedia Engineering, Dongguk Univ.)</a>
 
 ### <i>Interests</i><br>
 
