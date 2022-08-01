@@ -1,15 +1,10 @@
 <a href = "http://engineer.dongguk.edu/">![logo_resp](https://user-images.githubusercontent.com/105583102/173252158-a2284361-0a94-4137-bbbd-e9f0a283f7d7.png)</a>
-### <i>Undergraduate '22 (First Grade)</i>
-Information Communication Engineering Major (Division of Computer Information Communication Engineering),<br>
-Dongguk University,<br>
-04620 Seoul, South Korea.<br>
 
 ### <i>Education</i>
 <strong>B.S.-ing</strong> from Information Communication Engineering Major (Division of Computer Information Communication Engineering), at Dongguk univ. (2022.03.02~)<br>
-※Micro Degree - Machine Learning, Applied Data Science
 
 ### <i>Experiences</i>
-Hacking Security Expert Certification Level 3 (2022.04.20)<br><br>
+Get a <i>Hacking Security Expert Certification Level 3</i> (2022.04.20)<br><br>
 The World Embedded Software Contest 2022 (2022.06.16~), with<br><a href = "https://github.com/ryujm1828">Ryu Jaemin (Department of Cyber Security, Ajou Univ.)</a>
 ,<br><a href = "https://github.com/lamiro3">Ko TaeHyeon (Department of AI Convergence, Dongguk Univ.)</a><br><br>
 Creative Problem Solving Project (Dongguk univ.) (2022.06.19~), with<br>
