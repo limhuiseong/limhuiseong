@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30"/> Nice to meet You! </h1>
+Welcome to my page!
 
-<!--
-**limhuiseong/limhuiseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-007ACC?style=for-the-badge&logo=react&logoColor=white)
+![NextJS](https://img.shields.io/badge/-next.js-007ACC?style=for-the-badge&logo=Next.JS&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-007ACC?style=for-the-badge&logo=Express&logoColor=white)
 
-Here are some ideas to get you started:
+# Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tooniplay, Seoul, Korea (Sep.2023 ~ )
+### Web Application Development Intern
+- Webtoon platform development
+- Webtoon admin platform development
+
+# Education
+
+## Dongguk University, Seoul, Korea (Mar.2022 ~ Present)
+- Bachelor of Computer Information and Communication Engineering<br />
+- Bachelor of Economics (Minor)
