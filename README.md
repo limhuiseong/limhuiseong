@@ -7,6 +7,7 @@ Welcome to my page!
 ![React](https://img.shields.io/badge/-React-007ACC?style=for-the-badge&logo=react&logoColor=white)
 ![NextJS](https://img.shields.io/badge/-next.js-007ACC?style=for-the-badge&logo=Next.JS&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express.js-007ACC?style=for-the-badge&logo=Express&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-007ACC?style=for-the-badge&logo=MySQL&logoColor=white)
 
 # Experience
 
