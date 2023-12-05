@@ -18,6 +18,6 @@ Welcome to my page!
 
 # Education
 
-## Dongguk University, Seoul, Korea (Mar.2022 ~ Present)
+## Dongguk University, Seoul, Korea (Mar.2022 ~ )
 - Bachelor of Computer Information and Communication Engineering<br />
 - Bachelor of Economics (Minor)
