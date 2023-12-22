@@ -11,8 +11,8 @@ Welcome to my page!
 
 # Experience
 
-## Tooniplay, Seoul, Korea (Sep.2023 ~ )
-### Web Application Development Intern
+## Tooniplay, Seoul, Korea (Sep.2023 ~ Dec.2023)
+### FastAPI, NodeJS Intern
 - Webtoon platform development
 - Webtoon admin platform development
 
