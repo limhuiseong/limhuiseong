@@ -1,15 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30"/> Nice to meet You! </h1>
 Welcome to my page!
 
-# Tech Stack
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-007ACC?style=for-the-badge&logo=react&logoColor=white)
-![NextJS](https://img.shields.io/badge/-next.js-007ACC?style=for-the-badge&logo=Next.JS&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-007ACC?style=for-the-badge&logo=Express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-007ACC?style=for-the-badge&logo=FastAPI&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-007ACC?style=for-the-badge&logo=MySQL&logoColor=white)
-
-
 # Experience
 
 ## Tooniplay, Seoul, Korea (Sep.2023 ~ Dec.2023)
