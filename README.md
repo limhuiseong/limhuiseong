@@ -5,7 +5,7 @@ Welcome to my page!
 
 ## Tooniplay, Seoul, Korea (Sep.2023 ~ Dec.2023)
 
-### Development Intern
+### Web Development Intern
 
 - Webtoon platform development
 - Webtoon admin platform development
