@@ -7,8 +7,9 @@ Welcome to my page!
 
 ### Web Development Intern
 
-- Webtoon platform development
-- Webtoon admin platform development
+- Migrated a backend from Node.js to FastAPI
+- Developed React and Node.js applications
+- Refactored existing React and Node.js codebase to improve quality
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=white)
