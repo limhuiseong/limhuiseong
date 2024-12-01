@@ -11,6 +11,4 @@ Welcome to my page!
 
 **Dongguk University, Seoul, Republic of Korea (Mar.2022 ~ )**
 
-> Bachelor of Information and Telecommunication Engineering (major)
->
-> Bachelor of Economics (minor)
+- Bachelor of Information and Telecommunication Engineering
